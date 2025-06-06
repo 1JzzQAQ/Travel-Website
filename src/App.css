@@ -269,6 +269,7 @@ body {
    color:var(--main-color);
    min-width:calc(var(--menu-width) * 2 / 3);
    text-align: center;
+   background: transparent;
 }
 .aside-menu button:not(:last-child){
     margin-bottom:var(--menu-margin-bottom);

@@ -1,4 +1,6 @@
-const CONTENT_INFO={
+import type { ContentInfo } from "./type";
+
+export const CONTENT_INFO:ContentInfo={
     island:{
         h1:"Never Stop",
         h2:"Explore the world",
